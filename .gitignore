@@ -1,0 +1,3 @@
+venv
+mytoys/__pycache__
+db.sqlite3
